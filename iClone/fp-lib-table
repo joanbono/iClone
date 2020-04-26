@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name TTGOESP32)(type KiCad)(uri /home/jbono/Git/TTGOESP32)(options "")(descr ""))
+  (lib (name TTGODisplay)(type KiCad)(uri /home/jbono/Git/TTGODisplay)(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri ${CLONE}/Logos.pretty)(options "")(descr ""))
+)
